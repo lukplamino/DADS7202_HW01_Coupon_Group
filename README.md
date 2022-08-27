@@ -8,6 +8,11 @@ Which one is better for structured data, traditional ML or MLP?
 - Highlight4
 - Highlight5
 
+## 1. Introduction
+Binary classification: 
+
+## 2. Data
+### •	Data source: 
 
 ## End Credit
 ### Members, Percent Contribution and Responsibility
