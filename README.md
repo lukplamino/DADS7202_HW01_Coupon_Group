@@ -11,7 +11,9 @@ Which one is better for structured data, traditional ML or MLP?
 ## 1. Introduction
 Binary classification: 
 This data studies whether a person will accept the coupon recommended to him in different driving scenarios
+
 1: Accept coupons
+
 0: Deny coupons
 
 
@@ -35,7 +37,9 @@ In-vehicle coupon recommendation Data Set (https://archive.ics.uci.edu/ml/datase
 
 ## End Credit
 งานชิ้นนี้เป็นส่วนหนึ่งของ วิชา DADS7202 Deep Learning 
+
 หลักสูตร DADS 
+
 มหาลัย National Institute of Development Administration”
 
 ### Members, Percent Contribution and Responsibility
