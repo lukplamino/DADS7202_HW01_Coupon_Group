@@ -10,9 +10,12 @@ Which one is better for structured data, traditional ML or MLP?
 
 ## 1. Introduction
 Binary classification: 
+This data studies whether a person will accept the coupon recommended to him in different driving scenarios
+
 
 ## 2. Data
-### •	Data source: 
+•	Data source: In-vehicle coupon recommendation Data Set
+https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation
 
 ## End Credit
 ### Members, Percent Contribution and Responsibility
