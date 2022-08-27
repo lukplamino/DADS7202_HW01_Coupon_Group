@@ -14,8 +14,8 @@ This data studies whether a person will accept the coupon recommended to him in 
 
 
 ## 2. Data
-•	Data source: In-vehicle coupon recommendation Data Set
-https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation
+### Data source: 
+In-vehicle coupon recommendation Data Set (https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)
 
 ## End Credit
 ### Members, Percent Contribution and Responsibility
