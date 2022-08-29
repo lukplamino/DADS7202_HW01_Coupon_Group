@@ -90,3 +90,5 @@ Term: 1 Year of education: 2022
 🏫National Institute of Development Administration (**`NIDA`**)
 
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> 
+
+<img src="https://github.com/robinoud/BADS7604_Deep-Learning/blob/4ec9a052a7fe7526bcd967b542eebf7e1574f438/Workflow%20of%20the%20experiment.png" style="width:600px;"/>
