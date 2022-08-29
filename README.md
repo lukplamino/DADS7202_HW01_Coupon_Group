@@ -1,16 +1,17 @@
 # DADS7202_Group Assignment 1 (Group 2 Coupon)
 Which one is better for structured data, traditional ML or MLP?
 
-## Highlight
+## ✨Highlight
 - Highlight1 เช่น ข้อคิดเห็น / การค้นพบ / insight
 - Highlight2
 - Highlight3
 - Highlight4
 - Highlight5
 
-## 1. Introduction
+## 1. 🎯Introduction
 Binary classification: 
-🎯 This data studies whether a person will accept the coupon recommended to him in different driving scenarios
+
+This data studies whether a person will accept the coupon recommended to him in different driving scenarios
 
 1: Accept coupons
 
