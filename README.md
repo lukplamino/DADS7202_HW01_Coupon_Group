@@ -58,4 +58,4 @@ National Institute of Development Administration (**`NIDA`**)
 3. **`6410422024`**  Supisara Poo.
 4. **`6410422027`**  Kantima Tec.
 
-`<img src="{https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252}" />`
+![]([https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252))
