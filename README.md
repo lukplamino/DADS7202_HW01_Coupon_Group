@@ -108,11 +108,12 @@ _วิเคราะห์ด้วยว่าวิธีแก้ที่�
 
 ## 8. References🌐
 _อ้างอิงไลบรารีที่ใช้ (พร้อมเวอร์ชัน), อ้างอิงเทคนิคที่ยืมมาใช้จากเปเปอร์, อ้างอิงโค้ดหรือรูปภาพที่หยิบยืมมาใช้จาก github หรือจากที่อื่น ๆ_
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
 
-## Citing: 
+## Citing: [🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
 _ ในกรณีที่มีคนอยาก cite (อ้างอิง) งานหรือ dataset ของเรา เราอยากให้เขา cite เราว่าอย่างไร ส่วนใหญ่นิยมเขียนในรูปแบบของ bibtex format ตามตัวอย่างในภาพ_
 
-
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
 ## 👥 Members, Percent Contribution and Responsibility [🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
 |No  |ID                |Name                              |% Contribution |Responsibility                             |
 |:---:|:---:             |---                               |:---:            |:---|
@@ -121,7 +122,7 @@ _ ในกรณีที่มีคนอยาก cite (อ้างอิ�
 |3.  |**`6410422024`**  |[Supisara Poo.](https://www.kaggle.com/supisarapo)                     |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with MLP `** **`Evaluate and conclude result`**  |
 |4.  |**`6410422027`**  |[Kantima Tec.](https://www.kaggle.com/kantimatec)                     |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with traditional ML`** **`Evaluate and conclude result`** |
 
-
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
 ## 🖇️End Credit 
 This project is a part of **`DADS7202 Deep Learning`**
 
