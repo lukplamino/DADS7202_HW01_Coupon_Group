@@ -113,7 +113,7 @@ _อ้างอิงไลบรารีที่ใช้ (พร้อม�
 _ ในกรณีที่มีคนอยาก cite (อ้างอิง) งานหรือ dataset ของเรา เราอยากให้เขา cite เราว่าอย่างไร ส่วนใหญ่นิยมเขียนในรูปแบบของ bibtex format ตามตัวอย่างในภาพ_
 
 
-## 👥 Members, Percent Contribution and Responsibility
+## 👥 Members, Percent Contribution and Responsibility [🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
 |No  |ID                |Name                              |% Contribution |Responsibility                             |
 |:---:|:---:             |---                               |:---:            |:---|
 |1.  |**`6410422002`**  |[Navapol San.](https://www.kaggle.com/navapol)                      |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with traditional ML`** **`Experiment with MLP `**  
