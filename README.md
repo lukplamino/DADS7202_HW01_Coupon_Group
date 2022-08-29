@@ -11,14 +11,14 @@ Which one is better for structured data, traditional ML or MLP?
 ## 1.Introduction🎯 
 Binary classification: 
 
-This data studies whether a person will accept the coupon recommended to him in different driving scenarios
+This data studies whether a person will accept the coupon recommended to him in different driving scenarios🚗
 
 1: Accept coupons
 
 0: Deny coupons
 
 
-## 2. Data
+## 2. Data📑
 #### Data source: 
 [In-vehicle coupon recommendation Data Set](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)
 
@@ -27,22 +27,22 @@ This data was collected via a survey on Amazon Mechanical Turk. The survey descr
 For more information about the dataset, please refer to the paper:
 Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Perry MacNeille. 'A bayesian framework for learning rule sets for interpretable classification.' The Journal of Machine Learning Research 18, no. 1 (2017): 2357-2393.
 
-#### Exploratory Data Analysis(EDA): 
+#### Exploratory Data Analysis(EDA)🔎: 
 #### Data preparation:
 #### Data pre-processing:
 #### Data post-processing:
 #### Data splitting (train/val/test):
 #### How to solve imbalance data:
 
-## 3. Network architecture
-## 4. Training
-## 5. Results
-## 6. Discussion
-## 7. Conclusion
-## 8. References
+## 3. Network architecture📦
+## 4. Training🔮
+## 5. Results📈
+## 6. Discussion💭
+## 7. Conclusion📊
+## 8. References🌐
 
 
-## End Credit
+## End Credit :thailand:
 This work is part of **`DADS7202 Deep Learning`**
 
 Term: 1 year of education: 2022
