@@ -57,7 +57,7 @@ Term: 1 year of education: 2022
 |:---:|:---:             |---                               |:---:            |:---|
 |1.  |**`6410422002`**  |Navapol San.                      |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with traditional ML`** **`Experiment with MLP `**  
 |2.  |**`6410422002`**  |Pakkawut Kam.                     |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with traditional ML`**  |
-|3.  |**`6410422024`**  |Supisara Poo.                     |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Evaluate and conclude result`** **`Experiment with MLP `** |
+|3.  |**`6410422024`**  |Supisara Poo.                     |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with MLP `** **`Evaluate and conclude result`**  |
 |4.  |**`6410422027`**  |Kantima Tec.                      |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with traditional ML`** **`Evaluate and conclude result`** |
 
 
