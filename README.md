@@ -12,7 +12,7 @@
 
 **`Binary classification`**:
 
-This project aims to compare performance of traditional ML model and  MLP model by training  models that can predict if a driver will accept a coupon recommended to his/her in different driving scenarios🚗. (1: Accept coupons, 0: Deny coupons)
+This project aims to compare performance of traditional ML models and  a self-designed MLP network model by training  models that can predict if a driver will accept a coupon recommended to his/her in different driving scenarios🚗. (1: Accept coupons, 0: Deny coupons)
 
 ## 2. Data📑
 #### 📍Data source: 
