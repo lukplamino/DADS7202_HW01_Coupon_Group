@@ -32,7 +32,13 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
  5. **`Education`**:  (Some college - no degree, Bachelors degree, Associates degree, High School Graduate, Graduate degree (Masters or Doctorate), Some High School)\
  6. **`Occupation`**: (Unemployed, Architecture & Engineering, Student,Education&Training&Library, Healthcare Support, Healthcare Practitioners & Technical, Sales & Related, Management, Arts Design,Arts Design Entertainment Sports & Media, Computer & Mathematical, Entertainment Sports & Media, Computer & Mathematical,Life Physical Social Science, Personal Care & Service, Community & Social Services, Office & Administrative Support, Construction & Extraction, Legal, Retired,Installation Maintenance & Repair, Transportation & Material Moving,Business & Financial, Protective Service,Food Preparation & Serving Related, Production Occupations,Building & Grounds Cleaning & Maintenance, Farming Fishing & Forestry)
  7. **`Income`**: ( Less than $12500, $12500 - $24999, $25000 - $37499, $37500 - $49999, $50000 - $62499, $62500 - $74999,  $75000 - $87499, $87500 - $99999, $100000 or More)
- 8. **`Bar`**: How many times do you go to a bar every month?
+ 8. **`Bar`**: How many times do you go to a bar every month? (never, less1, 1~3, 4~8, gt8, nan)
+ 9. **`CoffeeHouse`**: How many times do you go to a coffee house every month? (never, less1, 1~3, 4~8, gt8, nan)
+ 10. **`CarryAway`**: How many times do you get take-away food every month? (never, less1, 1~3, 4~8, gt8, nan)
+ 11. **`RestaurantLessThan20`**: How many times do you go to a restaurant with an average expense per person of less than $20 every month? (never, less1, 1~3, 4~8, gt8, nan)
+ 12. **`Restaurant20To50`**: How many times do you go to a restaurant with average expense per person of $20 - $50 every month? (never, less1, 1~3, 4~8, gt8, nan)
+![image](https://user-images.githubusercontent.com/97331326/187213335-d8aad069-3f61-4c09-a928-44e7a23779cb.png)
+
 #####  II. Coupon attributes
 #####  III. Other attributes
  1. dfd
