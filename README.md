@@ -17,7 +17,7 @@ This project aims to train a classification model that can predict if a driver w
 (1: Accept coupons, 0: Deny coupons)
 
 ## 2. Data📑
-#### Data source: 
+#### 📍Data source: 
 [In-vehicle coupon recommendation Data Set](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)
 
 This data was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. 
@@ -25,12 +25,12 @@ This data was collected via a survey on Amazon Mechanical Turk. The survey descr
 For more information about the dataset, please refer to the paper:
 Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Perry MacNeille. 'A bayesian framework for learning rule sets for interpretable classification.' The Journal of Machine Learning Research 18, no. 1 (2017): 2357-2393.
 
-#### Exploratory Data Analysis(EDA)🔎: 
-#### Data preparation:
-#### Data pre-processing:
-#### Data post-processing:
-#### Data splitting (train/val/test):
-#### How to solve imbalance data:
+#### 🔎Exploratory Data Analysis(EDA): 
+##### Data preparation:
+##### Data pre-processing:
+##### Data post-processing:
+#### ✂️Data splitting (train/val/test):
+#### 🔨How to solve imbalance data:
 _หากชุดข้อมูลที่ใช้มีปัญหาบางประการ เช่น imbalance ในบางคลาส ให้ระบุแนวทางที่จะใช้แก้ปัญหาด้วย (โดยเฉพาะงาน classification)_
 
 ## 3. Network architecture📦
