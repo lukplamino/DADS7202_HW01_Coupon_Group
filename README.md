@@ -8,6 +8,19 @@
 - Highlight4
 - Highlight5
 
+## Table of Contents
+ - [1. Introduction🎯](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group/edit/main/README.md#1-introduction)
+ - [2. Data📑](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group/edit/main/README.md#2-data)
+ - [3. Network architecture📦]
+ - [4. Training🔮]
+ - [5. Results📈]
+ - [6. Discussion💭]
+ - [7. Conclusion📊]
+ - [8. References🌐]
+ - [👥 Members, Percent Contribution and Responsibility]
+ - [🖇️End Credit ]
+
+
 ## 1. Introduction🎯 
 
 **`Binary classification`**:
