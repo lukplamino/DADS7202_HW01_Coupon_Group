@@ -55,7 +55,7 @@ National Institute of Development Administration (**`NIDA`**)
 ### 👥 Members, Percent Contribution and Responsibility
 |No  |ID                |Name                              |% Contribution |Responsibility                             |
 |:---:|:---:             |---                               |:---:            |:---|
-|1.  |**`6410422002`**  |Navapol San.                      |   **`25%`**     |                                           |
+|1.  |**`6410422002`**  |Navapol San.                      |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with MLP `**  **`Experiment with traditional ML`** **`Evaluate and conclude result`** 
 |2.  |**`6410422002`**  |Pakkawut Kam.                     |   **`25%`**     |                                           |
 |3.  |**`6410422024`**  |Supisara Poo.                     |   **`25%`**     |                                           |
 |4.  |**`6410422027`**  |Kantima Tec.                      |   **`25%`**     |                                           |
