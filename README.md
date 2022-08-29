@@ -42,7 +42,7 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
 ## 8. References🌐
 
 
-## End Credit 
+## 🖇️End Credit 
 This work is part of **`DADS7202 Deep Learning`**
 
 Term: 1 year of education: 2022
