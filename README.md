@@ -19,7 +19,8 @@ Binary classification:
 
 ## 2. Data
 #### Data source: 
-In-vehicle coupon recommendation Data Set (https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)
+[In-vehicle coupon recommendation Data Set] (https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)
+
 #### Exploratory Data Analysis(EDA): 
 #### Data preparation:
 #### Data pre-processing:
