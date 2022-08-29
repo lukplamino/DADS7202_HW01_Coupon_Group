@@ -91,4 +91,4 @@ Term: 1 Year of education: 2022
 
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> 
 
-<img src="https://github.com/lukplamino/DADS7202_HW01_Coupon_Group/blob/main/images/Screenshot%202022-08-29%20174351.png"/>
+<img src="https://github.com/lukplamino/DADS7202_HW01_Coupon_Group/blob/main/images/Screenshot%202022-08-29%20174351.png" alt="drawing" style="width:400px;"/>
