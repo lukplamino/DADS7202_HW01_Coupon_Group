@@ -24,10 +24,15 @@ For more information about the dataset, please refer to the paper:
 Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Perry MacNeille. 'A bayesian framework for learning rule sets for interpretable classification.' The Journal of Machine Learning Research 18, no. 1 (2017): 2357-2393.
 
 **Devide `25 Attributes` into 3 groups** 
-#####  I. User attributes
+#####  I. Persona attributes
  1. `Age`: (<21, 21-25, 26-30, 31-35, 36-40, 41-45, 46-50, >50)
  2. `Gender`: (Female, Male)
- 3. `MaritalStatus`: 
+ 3. `MaritalStatus`: (Unmarried partner, Single, Married partner, Divorced, Widowed)
+ 4. `Has_Children`: (1: Has, 0: Doesn't have)
+ 5. `Education`:  (Some college - no degree, Bachelors degree, Associates degree, High School Graduate, Graduate degree (Masters or Doctorate), Some High School)\
+ 6. `Occupation`: (Unemployed, Architecture & Engineering, Student,Education&Training&Library, Healthcare Support, Healthcare Practitioners & Technical, Sales & Related, Management, Arts Design,Arts Design Entertainment Sports & Media, Computer & Mathematical, Entertainment Sports & Media, Computer & Mathematical,Life Physical Social Science, Personal Care & Service, Community & Social Services, Office & Administrative Support, Construction & Extraction, Legal, Retired,Installation Maintenance & Repair, Transportation & Material Moving,Business & Financial, Protective Service,Food Preparation & Serving Related, Production Occupations,Building & Grounds Cleaning & Maintenance, Farming Fishing & Forestry)
+ 7. `Income`: How many times do you go to a bar every month?
+ 8. `Bar`: 
 #####  II. Coupon attributes
 #####  III. Other attributes
  1. dfd
