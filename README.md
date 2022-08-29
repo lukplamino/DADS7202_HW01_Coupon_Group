@@ -18,14 +18,14 @@ This data studies whether a person will accept the coupon recommended to him in 
 
 
 ## 2. Data
-### Data source: 
+#### Data source: 
 In-vehicle coupon recommendation Data Set (https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)
-### Exploratory Data Analysis(EDA): 
-### Data preparation:
-### Data pre-processing:
-### Data post-processing:
-### Data splitting (train/val/test):
-### How to solve imbalance data:
+#### Exploratory Data Analysis(EDA): 
+#### Data preparation:
+#### Data pre-processing:
+#### Data post-processing:
+#### Data splitting (train/val/test):
+#### How to solve imbalance data:
 
 ## 3. Network architecture
 ## 4. Training
