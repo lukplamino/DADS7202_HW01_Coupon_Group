@@ -52,6 +52,7 @@ Term: 1 year of education: 2022
 🏫National Institute of Development Administration (**`NIDA`**)
 
 
+
 ### 👥 Members, Percent Contribution and Responsibility
 |No  |ID                |Name                              |% Contribution |Responsibility                             |
 |:---:|:---:             |---                               |:---:            |:---|
