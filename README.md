@@ -42,7 +42,7 @@ In-vehicle coupon recommendation Data Set (https://archive.ics.uci.edu/ml/datase
 
 มหาลัย National Institute of Development Administration”
 
-### Members, Percent Contribution and Responsibility
+### 👥 Members, Percent Contribution and Responsibility
 1. **`6410422002`**  Navapol San.
 2. **`6410422003`**  Pakkawut Kam.
 3. **`6410422024`**  Supisara Poo.
