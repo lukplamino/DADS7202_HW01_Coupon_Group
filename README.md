@@ -9,7 +9,7 @@
 - Highlight5
 
 ## Table of Contents
- - [1. Introduction🎯](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group/edit/main/README.md#1-introduction)
+ - [1. Introduction🎯](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#1-introduction)
  - [2. Data📑]()
  - [3. Network architecture📦]()
  - [4. Training🔮]()
