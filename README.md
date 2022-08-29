@@ -52,7 +52,7 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
  9. **`CoffeeHouse`**: How many times do you go to a coffee house every month? (never, less1, 1-3, 4-8, gt8, nan)
  10. **`CarryAway`**: How many times do you get take-away food every month? (never, less1, 1-3, 4-8, gt8, nan)
  11. **`RestaurantLessThan20`**: How many times do you go to a restaurant with an average expense per person of less than $20 every month? (never, less1, 1-3, 4-8, gt8, nan)
- 12. **`Restaurant20To50`**: How many times do you go to a restaurant with average expense per person of $20 - $50 every month? (never, less1, 1~3, 4~8, gt8, nan)
+ 12. **`Restaurant20To50`**: How many times do you go to a restaurant with average expense per person of $20 - $50 every month? (never, less1, 1-3, 4-8, gt8, nan)
 
 
 **Group II. Coupon attributes**
