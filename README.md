@@ -23,7 +23,7 @@ This data was collected via a survey on Amazon Mechanical Turk. The survey descr
 For more information about the dataset, please refer to the paper:
 Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Perry MacNeille. 'A bayesian framework for learning rule sets for interpretable classification.' The Journal of Machine Learning Research 18, no. 1 (2017): 2357-2393.
 
-**Devide `25 Attributes` into 3 groups** 
+**Devide `21 Attributes` into 3 groups** 
 #####  I. Persona attributes
  1. **`Age`**: (<21, 21-25, 26-30, 31-35, 36-40, 41-45, 46-50, >50)
  2. **`Gender`**: (Female, Male)
@@ -37,12 +37,18 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
  10. **`CarryAway`**: How many times do you get take-away food every month? (never, less1, 1~3, 4~8, gt8, nan)
  11. **`RestaurantLessThan20`**: How many times do you go to a restaurant with an average expense per person of less than $20 every month? (never, less1, 1~3, 4~8, gt8, nan)
  12. **`Restaurant20To50`**: How many times do you go to a restaurant with average expense per person of $20 - $50 every month? (never, less1, 1~3, 4~8, gt8, nan)
-![image](https://user-images.githubusercontent.com/97331326/187213335-d8aad069-3f61-4c09-a928-44e7a23779cb.png)
 
 #####  II. Coupon attributes
+ 13. **`Coupon`**: The coupon for...(Restaurant(<$20), Restaurant($20-$50, Coffee House, Carry out & Take away, Bar)
+ 14. **`Expiration`**: The coupon expires in 1 day or in 2 hours (1d, 2h)
 #####  III. Other attributes
- 1. dfd
- 2. 
+ 15. **`Destination`**: (No Urgent Place, Home, Work)
+ 16. **`Passanger`**: Who are the passengers in the car? (Alone, Friend(s), Kid(s), Partner)
+ 17. **`Weather`**: (Sunny, Rainy, Snowy)
+ 18. **`Temperature`**: (30, 50, 80)
+ 19. **`Time`**: (7AM, 10AM, 2PM, 6PM, 10PM)
+ 20. **`toCoupon_GEQ15min`**: Driving distance to the restaurant/bar for using the coupon is greater than 15 minutes (1,0)
+ 21. **`Direction_same`**: Whether the restaurant/bar is in the same direction as your current destination (1,0)
 
 
 #### 🔎Exploratory Data Analysis(EDA): 
