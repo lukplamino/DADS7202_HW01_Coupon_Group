@@ -53,8 +53,9 @@ National Institute of Development Administration (**`NIDA`**)
 
 
 ### 👥 Members, Percent Contribution and Responsibility
-|No  |ID          |Name                              |% Contribution |Responsibility                       |
-|--- |---         |---                               |---            |---                                  |
+|No  |ID                |Name                              |% Contribution |Responsibility                       |
+|--- |---               |---                               |---            |---                                  |
+|1.  |**`6410422002`**  |Navapol San.                      |---            |---                                  |
 1. **`6410422002`**  Navapol San.
 2. **`6410422003`**  Pakkawut Kam.
 3. **`6410422024`**  Supisara Poo.
