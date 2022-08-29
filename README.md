@@ -129,9 +129,10 @@ _อ้างอิงไลบรารีที่ใช้ (พร้อม�
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
 
-## Citing: [🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
+## Citing: 
 _ ในกรณีที่มีคนอยาก cite (อ้างอิง) งานหรือ dataset ของเรา เราอยากให้เขา cite เราว่าอย่างไร ส่วนใหญ่นิยมเขียนในรูปแบบของ bibtex format ตามตัวอย่างในภาพ_
 
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
 
 ## 👥 Members, Percent Contribution and Responsibility 
 |No  |ID                |Name                              |% Contribution |Responsibility                             |
