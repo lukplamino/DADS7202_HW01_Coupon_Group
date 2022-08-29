@@ -23,6 +23,17 @@ This data was collected via a survey on Amazon Mechanical Turk. The survey descr
 For more information about the dataset, please refer to the paper:
 Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Perry MacNeille. 'A bayesian framework for learning rule sets for interpretable classification.' The Journal of Machine Learning Research 18, no. 1 (2017): 2357-2393.
 
+**Devide `25 Attributes` into 3 groups** 
+#####  I. User attributes
+ 1. `Age`: (<21, 21-25, 26-30, 31-35, 36-40, 41-45, 46-50, >50)
+ 2. `Gender`: (Female, Male)
+ 3. `MaritalStatus`: 
+#####  II. Coupon attributes
+#####  III. Other attributes
+ 1. dfd
+ 2. 
+
+
 #### 🔎Exploratory Data Analysis(EDA): 
 ##### Data preparation:
 ##### Data pre-processing:
