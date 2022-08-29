@@ -47,18 +47,18 @@ This work is part of **`DADS7202 Deep Learning`**
 
 Term: 1 year of education: 2022
 
-Master of Science Program in **`Data Analytics and Data Science`** (DADS)
+🎓Master of Science Program in **`Data Analytics and Data Science`** (DADS)
 
-National Institute of Development Administration (**`NIDA`**)
+🏫National Institute of Development Administration (**`NIDA`**)
 
 
 ### 👥 Members, Percent Contribution and Responsibility
 |No  |ID                |Name                              |% Contribution |Responsibility                             |
 |:---:|:---:             |---                               |:---:            |:---|
-|1.  |**`6410422002`**  |Navapol San.                      |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with MLP `**  **`Experiment with traditional ML`** **`Evaluate and conclude result`** 
-|2.  |**`6410422002`**  |Pakkawut Kam.                     |   **`25%`**     |                                           |
-|3.  |**`6410422024`**  |Supisara Poo.                     |   **`25%`**     |                                           |
-|4.  |**`6410422027`**  |Kantima Tec.                      |   **`25%`**     |                                           |
+|1.  |**`6410422002`**  |Navapol San.                      |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with traditional ML`** **`Experiment with MLP `**  
+|2.  |**`6410422002`**  |Pakkawut Kam.                     |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with traditional ML`**  |
+|3.  |**`6410422024`**  |Supisara Poo.                     |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Evaluate and conclude result`** **`Experiment with MLP `** |
+|4.  |**`6410422027`**  |Kantima Tec.                      |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with traditional ML`** **`Evaluate and conclude result`** |
 
 
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> 
