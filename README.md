@@ -43,11 +43,14 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
 
 
 ## End Credit
-งานชิ้นนี้เป็นส่วนหนึ่งของ วิชา DADS7202 Deep Learning 
+This work is part of **`DADS7202 Deep Learning`**
 
-หลักสูตร DADS 
+Term: 1 year of education: 2022
 
-มหาลัย National Institute of Development Administration”
+Master of Science Program in **`Data Analytics and Data Science`** (DADS)
+
+National Institute of Development Administration (**`NIDA`**)
+
 
 ### 👥 Members, Percent Contribution and Responsibility
 1. **`6410422002`**  Navapol San.
