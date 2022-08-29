@@ -12,9 +12,7 @@ Which one is better for structured data, traditional ML or MLP?
 
 Binary classification:
 
-This project aims to train a classification model that can predict if a driver will accept a coupon recommended to his/her in different driving scenarios🚗.
-
-(1: Accept coupons, 0: Deny coupons)
+This project aims to train a classification model that can predict if a driver will accept a coupon recommended to his/her in different driving scenarios🚗. (1: Accept coupons, 0: Deny coupons)
 
 ## 2. Data📑
 #### 📍Data source: 
