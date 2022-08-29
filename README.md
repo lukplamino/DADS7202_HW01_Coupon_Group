@@ -38,7 +38,8 @@ For more information about the dataset, please refer to the paper:
 Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Perry MacNeille. 'A bayesian framework for learning rule sets for interpretable classification.' The Journal of Machine Learning Research 18, no. 1 (2017): 2357-2393.
 
 **Devide `21 Attributes` into 3 groups** 
-#####  I. Persona attributes
+
+**Group I. Persona attributes**
  1. **`Age`**: (<21, 21-25, 26-30, 31-35, 36-40, 41-45, 46-50, >50)
  2. **`Gender`**: (Female, Male)
  3. **`MaritalStatus`**: (Unmarried partner, Single, Married partner, Divorced, Widowed)
@@ -52,10 +53,12 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
  11. **`RestaurantLessThan20`**: How many times do you go to a restaurant with an average expense per person of less than $20 every month? (never, less1, 1~3, 4~8, gt8, nan)
  12. **`Restaurant20To50`**: How many times do you go to a restaurant with average expense per person of $20 - $50 every month? (never, less1, 1~3, 4~8, gt8, nan)
 
-#####  II. Coupon attributes
+
+**Group II. Coupon attributes**
  13. **`Coupon`**: The coupon for...(Restaurant(<$20), Restaurant($20-$50, Coffee House, Carry out & Take away, Bar)
  14. **`Expiration`**: The coupon expires in 1 day or in 2 hours (1d, 2h)
-#####  III. Other attributes
+ 
+**Group III. Other attributes**
  15. **`Destination`**: (No Urgent Place, Home, Work)
  16. **`Passanger`**: Who are the passengers in the car? (Alone, Friend(s), Kid(s), Partner)
  17. **`Weather`**: (Sunny, Rainy, Snowy)
