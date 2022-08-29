@@ -54,11 +54,11 @@ National Institute of Development Administration (**`NIDA`**)
 
 ### 👥 Members, Percent Contribution and Responsibility
 |No  |ID                |Name                              |% Contribution |Responsibility                             |
-|--- |---               |---                               |---            |-------------------------------------------|
-|1.  |**`6410422002`**  |Navapol San.                      |   **`25%`**   |                                           |
-|2.  |**`6410422002`**  |Pakkawut Kam.                     |   **`25%`**   |                                           |
-|3.  |**`6410422024`**  |Supisara Poo.                     |   **`25%`**   |                                           |
-|4.  |**`6410422027`**  |Kantima Tec.                      |   **`25%`**   |                                           |
+|:---:|:---:             |---                               |:---:            |:---|
+|1.  |**`6410422002`**  |Navapol San.                      |   **`25%`**     |                                           |
+|2.  |**`6410422002`**  |Pakkawut Kam.                     |   **`25%`**     |                                           |
+|3.  |**`6410422024`**  |Supisara Poo.                     |   **`25%`**     |                                           |
+|4.  |**`6410422027`**  |Kantima Tec.                      |   **`25%`**     |                                           |
 
 
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> 
