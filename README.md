@@ -8,7 +8,7 @@ Which one is better for structured data, traditional ML or MLP?
 - Highlight4
 - Highlight5
 
-## 1. 🎯Introduction
+## 1.Introduction🎯 
 Binary classification: 
 
 This data studies whether a person will accept the coupon recommended to him in different driving scenarios
