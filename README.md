@@ -10,15 +10,16 @@
 
 ## Table of Contents
  - [1. Introduction🎯](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#1-introduction)
- - [2. Data📑]()
- - [3. Network architecture📦]()
- - [4. Training🔮]()
- - [5. Results📈]()
- - [6. Discussion💭]()
- - [7. Conclusion📊]()
- - [8. References🌐]()
- - [👥 Members, Percent Contribution and Responsibility]()
- - [🖇️End Credit ]()
+ - [2. Data📑](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#2-data)
+ - [3. Network architecture📦](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#3-network-architecture)
+ - [4. Training🔮](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#4-training)
+ - [5. Results📈](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#5-results)
+ - [6. Discussion💭](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#6-discussion)
+ - [7. Conclusion📊](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#7-conclusion)
+ - [8. References🌐](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#8-references)
+ - [Citing](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#citing)
+ - [👥 Members, Percent Contribution and Responsibility](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#-members-percent-contribution-and-responsibility)
+ - [🖇️End Credit ](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#%EF%B8%8Fend-credit)
 
 
 ## 1. Introduction🎯 
