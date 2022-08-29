@@ -40,6 +40,7 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
 **Devide `21 Attributes` into 3 groups** 
 
 **Group I. Persona attributes**
+
  1. **`Age`**: (<21, 21-25, 26-30, 31-35, 36-40, 41-45, 46-50, >50)
  2. **`Gender`**: (Female, Male)
  3. **`MaritalStatus`**: (Unmarried partner, Single, Married partner, Divorced, Widowed)
@@ -47,18 +48,20 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
  5. **`Education`**:  (Some college - no degree, Bachelors degree, Associates degree, High School Graduate, Graduate degree (Masters or Doctorate), Some High School)\
  6. **`Occupation`**: (Unemployed, Architecture & Engineering, Student,Education&Training&Library, Healthcare Support, Healthcare Practitioners & Technical, Sales & Related, Management, Arts Design,Arts Design Entertainment Sports & Media, Computer & Mathematical, Entertainment Sports & Media, Computer & Mathematical,Life Physical Social Science, Personal Care & Service, Community & Social Services, Office & Administrative Support, Construction & Extraction, Legal, Retired,Installation Maintenance & Repair, Transportation & Material Moving,Business & Financial, Protective Service,Food Preparation & Serving Related, Production Occupations,Building & Grounds Cleaning & Maintenance, Farming Fishing & Forestry)
  7. **`Income`**: ( Less than $12500, $12500 - $24999, $25000 - $37499, $37500 - $49999, $50000 - $62499, $62500 - $74999,  $75000 - $87499, $87500 - $99999, $100000 or More)
- 8. **`Bar`**: How many times do you go to a bar every month? (never, less1, 1~3, 4~8, gt8, nan)
- 9. **`CoffeeHouse`**: How many times do you go to a coffee house every month? (never, less1, 1~3, 4~8, gt8, nan)
- 10. **`CarryAway`**: How many times do you get take-away food every month? (never, less1, 1~3, 4~8, gt8, nan)
- 11. **`RestaurantLessThan20`**: How many times do you go to a restaurant with an average expense per person of less than $20 every month? (never, less1, 1~3, 4~8, gt8, nan)
+ 8. **`Bar`**: How many times do you go to a bar every month? (never, less1, 1-3, 4-8, gt8, nan)
+ 9. **`CoffeeHouse`**: How many times do you go to a coffee house every month? (never, less1, 1-3, 4-8, gt8, nan)
+ 10. **`CarryAway`**: How many times do you get take-away food every month? (never, less1, 1-3, 4-8, gt8, nan)
+ 11. **`RestaurantLessThan20`**: How many times do you go to a restaurant with an average expense per person of less than $20 every month? (never, less1, 1-3, 4-8, gt8, nan)
  12. **`Restaurant20To50`**: How many times do you go to a restaurant with average expense per person of $20 - $50 every month? (never, less1, 1~3, 4~8, gt8, nan)
 
 
 **Group II. Coupon attributes**
+
  13. **`Coupon`**: The coupon for...(Restaurant(<$20), Restaurant($20-$50, Coffee House, Carry out & Take away, Bar)
  14. **`Expiration`**: The coupon expires in 1 day or in 2 hours (1d, 2h)
  
 **Group III. Other attributes**
+
  15. **`Destination`**: (No Urgent Place, Home, Work)
  16. **`Passanger`**: Who are the passengers in the car? (Alone, Friend(s), Kid(s), Partner)
  17. **`Weather`**: (Sunny, Rainy, Snowy)
