@@ -1,7 +1,7 @@
 # DADS7202_Group Assignment 1 (Group 2 Tinkerbell)
 > **`Which one is better for structured data, traditional ML or MLP?`**
 
-<img src="https://github.com/lukplamino/DADS7202_HW01_Coupon_Group/blob/main/images/Screenshot%202022-08-29%20174351.png" alt="drawing" style="width:400px;"/>
+<img src="https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group/blob/main/images/Screenshot%202022-08-29%20174351.png" alt="drawing" style="width:400px;"/>
 
 ## ✨Highlight
 - Highlight1 เช่น ข้อคิดเห็น / การค้นพบ / insight
@@ -11,17 +11,17 @@
 - Highlight5
 
 ## Table of Contents
- - [1. Introduction🎯](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#1-introduction)
- - [2. Data📑](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#2-data)
- - [3. Network architecture📦](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#3-network-architecture)
- - [4. Training🔮](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#4-training)
- - [5. Results📈](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#5-results)
- - [6. Discussion💭](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#6-discussion)
- - [7. Conclusion📊](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#7-conclusion)
- - [8. References🌐](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#8-references)
- - [Citing](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#citing)
+ - [1. Introduction🎯](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#1-introduction)
+ - [2. Data📑](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#2-data)
+ - [3. Network architecture📦](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#3-network-architecture)
+ - [4. Training🔮](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#4-training)
+ - [5. Results📈](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#5-results)
+ - [6. Discussion💭](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#6-discussion)
+ - [7. Conclusion📊](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#7-conclusion)
+ - [8. References🌐](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#8-references)
+ - [Citing](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#citing)
  - [👥 Members, Percent Contribution and Responsibility](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#-members-percent-contribution-and-responsibility)
- - [🖇️End Credit ](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#%EF%B8%8Fend-credit)
+ - [🖇️End Credit ](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#%EF%B8%8Fend-credit)
 
 
 ## 1. Introduction🎯 
@@ -82,21 +82,21 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
 _หากชุดข้อมูลที่ใช้มีปัญหาบางประการ เช่น imbalance ในบางคลาส ให้ระบุแนวทางที่จะใช้แก้ปัญหาด้วย (โดยเฉพาะงาน classification)_
 
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#dads7202_group-assignment-1-group-2-coupon)
 
 ## 3. Network architecture📦
 _รายละเอียดต่างๆของโมเดลที่เลือกใช้ เช่น จำนวนและตำแหน่งการวาง layer, จำนวน nodes, activation function, regularization) _
 _(โดยใส่ข้อมูลให้ละเอียดพอที่คนที่มาอ่านจะสามารถไปสร้าง network ตามเราได้)_
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#dads7202_group-assignment-1-group-2-coupon)
 
 ## 4. Training🔮
 _รายละเอียดของการ train และ validate ข้อมูล รวมถึงทรัพยากรที่ใช้ในการ train โมเดลหนึ่ง ๆ เช่น training strategy (เช่น single loss, compound loss, two-step training, end-to-end training), loss, optimizer (learning rate, momentum, etc), batch size, epoch, รุ่นและจำนวน CPU หรือ GPU หรือ TPU ที่ใช้, เวลาโดยประมาณที่ใช้ train โมเดลหนึ่งตัว ฯลฯ_
  - GPU:
-<img src="https://github.com/lukplamino/DADS7202_HW01_Coupon_Group/blob/main/images/GPU.png" alt="drawing" style="width:500px;"/>
+<img src="https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group/blob/main/images/GPU.png" alt="drawing" style="width:500px;"/>
  - Time to train:
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#dads7202_group-assignment-1-group-2-coupon)
 
 ## 5. Results📈
  - การแสดงผลลัพธ์เทียบ Train vs Validation (เช่น Loss/Accuracy)
@@ -110,9 +110,9 @@ one sample ก็ควรจะต้องเป็นค่าที่เฉ
 loss สมการเดียวกัน เป็นต้น
  - แสดงตัวเลขผลลัพธ์ในรูปของค่าเฉลี่ย mean±SD โดยให้ทำการเทรนโมเดลด้วย initial random weights ที่แตกต่างกันอย่าง น้อย 3-5 รอบเพื่อให้ได้อย่างน้อย 3-5 โมเดลมาหาประสิทธิภาพเฉลี่ยกัน, แสดงผลลัพธ์การ train โมเดลเป็นกราฟเทียบ train vs.validation, สรุปผลว่าเกิด underfit หรือ overfit หรือไม่, อธิบาย evaluation metric ที่ใช้ในการประเมินประสิทธิภาพของโมเดลบน train/val/test sets ตามความเหมาะสมของปัญหา, หากสามารถเปรียบเทียบผลลัพธ์ของโมเดลเรากับโมเดลอื่น ๆ (ของคนอื่น) บน any standard benchmark dataset ได้ด้วยจะยิ่งทำให้งานดูน่าเชื่อถือยิ่งขึ้น เช่น เทียบความแม่นยำ เทียบเวลาที่ใช้train เทียบเวลาที่ใช้inference บนซีพียูและจีพียู เทียบขนาดโมเดล ฯลฯ
 
-<img src="https://github.com/lukplamino/DADS7202_HW01_Coupon_Group/blob/main/images/Traditional_model.png" alt="drawing" style="width:500px;"/>
+<img src="https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group/blob/main/images/Traditional_model.png" alt="drawing" style="width:500px;"/>
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#dads7202_group-assignment-1-group-2-coupon)
 
 ##  (Optional) Ablation study
 _**โมเดลเราคงไม่ใหญ่ขนาดนั้นมั้ง หัวข้อนี้ก็อาจจะตัดทิ้งนะ_
@@ -121,12 +121,12 @@ _ในกรณีที่โมเดลมีขนาดใหญ่แล�
 ในกรณีเหล่านี้นิยมทำ ablation study โดยทดลองลบโมเดลย่อยบางส่วนออก แล้ว train 
 โมเดลดังกล่าวใหม่เพื่อดูว่าการดึงออกนี้มีผลทำให้ประสิทธิภาพโมเดลดีขึ้นหรือแย่ลงอย่างไร_ 
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#dads7202_group-assignment-1-group-2-coupon)
 
 ## 6. Discussion💭
 _อภิปรายผลลัพธ์ที่ได้ว่ามีอะไรเป็นไปตามสมมติฐาน หรือมีอะไรผิดคาด ไม่เป็นไปตามสมมติฐานบ้าง, วิเคราะห์เพิ่มเติมว่าสิ่งที่ผิดคาดหรือผิดปกตินั้นน่าจะเกิดจากอะไร, ในกรณีที่ dataset มีปัญหา เช่น imalanced dataset ควรวิเคราะห์ด้วยว่าวิธีแก้ที่เราใช้สามารถแก้ปัญหาของ dataset ได้จริงหรือไม่_
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#dads7202_group-assignment-1-group-2-coupon)
 
 ## 7. Conclusion📊
 _การอภิปรายผลและการสรุปผล ต้องอ้างอิงกับผลการทดลองของเราที่ได้ออกมาเป็นหลัก
@@ -135,17 +135,17 @@ _การอภิปรายผลและการสรุปผล ต้
 
 _วิเคราะห์ด้วยว่าวิธีแก้ที่เราใช้สามารถแก้ปัญหาของ dataset ได้จริงหรือไม่ หรือจุดประสงค์หลัก (objective) ของการบ้านแต่ละครั้ง_
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#dads7202_group-assignment-1-group-2-coupon)
 
 ## 8. References🌐
 _อ้างอิงไลบรารีที่ใช้ (พร้อมเวอร์ชัน), อ้างอิงเทคนิคที่ยืมมาใช้จากเปเปอร์, อ้างอิงโค้ดหรือรูปภาพที่หยิบยืมมาใช้จาก github หรือจากที่อื่น ๆ_
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#dads7202_group-assignment-1-group-2-coupon)
 
 ## Citing: 
 _ ในกรณีที่มีคนอยาก cite (อ้างอิง) งานหรือ dataset ของเรา เราอยากให้เขา cite เราว่าอย่างไร ส่วนใหญ่นิยมเขียนในรูปแบบของ bibtex format ตามตัวอย่างในภาพ_
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#dads7202_group-assignment-1-group-2-coupon)
 
 ## 👥 Members, Percent Contribution and Responsibility 
 |No  |ID                |Name                              |% Contribution |Responsibility                             |
@@ -155,7 +155,7 @@ _ ในกรณีที่มีคนอยาก cite (อ้างอิ�
 |3.  |**`6410422024`**  |[Supisara Poo.](https://www.kaggle.com/supisarapo)                     |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with MLP `** **`Evaluate and conclude result`**  |
 |4.  |**`6410422027`**  |[Kantima Tec.](https://www.kaggle.com/kantimatec)                     |   **`25%`**     |**`Explore data`** **`Prepare dataset`** **`Experiment with traditional ML`** **`Evaluate and conclude result`** |
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#dads7202_group-assignment-1-group-2-coupon)
 
 ## 🖇️End Credit 
 This project is a part of **`DADS7202 Deep Learning`**
@@ -170,4 +170,4 @@ Term: 1 Year of education: 2022
 
 
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
+[🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#dads7202_group-assignment-1-group-2-coupon)
