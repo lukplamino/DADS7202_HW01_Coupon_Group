@@ -20,7 +20,7 @@
  - [7. Conclusion📊](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#7-conclusion)
  - [8. References🌐](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#8-references)
  - [Citing](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#citing)
- - [👥 Members, Percent Contribution and Responsibility](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#-members-percent-contribution-and-responsibility)
+ - [👥 Members, Percent Contribution and Responsibility](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#-members-percent-contribution-and-responsibility)
  - [🖇️End Credit ](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#%EF%B8%8Fend-credit)
 
 
