@@ -90,8 +90,9 @@ _(โดยใส่ข้อมูลให้ละเอียดพอที
 
 ## 4. Training🔮
 _รายละเอียดของการ train และ validate ข้อมูล รวมถึงทรัพยากรที่ใช้ในการ train โมเดลหนึ่ง ๆ เช่น training strategy (เช่น single loss, compound loss, two-step training, end-to-end training), loss, optimizer (learning rate, momentum, etc), batch size, epoch, รุ่นและจำนวน CPU หรือ GPU หรือ TPU ที่ใช้, เวลาโดยประมาณที่ใช้ train โมเดลหนึ่งตัว ฯลฯ_
-<img src="https://github.com/lukplamino/DADS7202_HW01_Coupon_Group/blob/main/images/GPU.png"/>
-<img src="https://github.com/lukplamino/DADS7202_HW01_Coupon_Group/blob/main/images/GPU.png" alt="drawing" style="width:400px;"/>
+
+<img src="https://github.com/lukplamino/DADS7202_HW01_Coupon_Group/blob/main/images/GPU.png" alt="drawing" style="width:500px;"/>
+
 [🔝](https://github.com/lukplamino/DADS7202_HW01_Coupon_Group#dads7202_group-assignment-1-group-2-coupon)
 
 ## 5. Results📈
