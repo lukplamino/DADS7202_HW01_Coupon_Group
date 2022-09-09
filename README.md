@@ -39,6 +39,13 @@ This data was collected via a survey on Amazon Mechanical Turk. The survey descr
 For more information about the dataset, please refer to the paper:
 Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Perry MacNeille. 'A bayesian framework for learning rule sets for interpretable classification.' The Journal of Machine Learning Research 18, no. 1 (2017): 2357-2393.
 
+#### 🔎Exploratory Data Analysis(EDA): 
+##### Data preparation:
+##### Data pre-processing:
+##### Data post-processing:
+
+#### 🔨How to solve imbalance data:
+_หากชุดข้อมูลที่ใช้มีปัญหาบางประการ เช่น imbalance ในบางคลาส ให้ระบุแนวทางที่จะใช้แก้ปัญหาด้วย (โดยเฉพาะงาน classification)_
 **Devide `21 Attributes` into 3 groups** 
 
 **Group I. Persona attributes**
@@ -72,17 +79,9 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
  20. **`toCoupon_GEQ15min`**: Driving distance to the restaurant/bar for using the coupon is greater than 15 minutes (1,0)
  21. **`Direction_same`**: Whether the restaurant/bar is in the same direction as your current destination (1,0)
 
-
-#### 🔎Exploratory Data Analysis(EDA): 
-##### Data preparation:
-##### Data pre-processing:
-##### Data post-processing:
-#### ✂️Data splitting (train/val/test):
-#### 🔨How to solve imbalance data:
-_หากชุดข้อมูลที่ใช้มีปัญหาบางประการ เช่น imbalance ในบางคลาส ให้ระบุแนวทางที่จะใช้แก้ปัญหาด้วย (โดยเฉพาะงาน classification)_
-
-
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
+
+#### ✂️Data splitting (train/val/test):
 
 ## 3. Network architecture📦
 _รายละเอียดต่างๆของโมเดลที่เลือกใช้ เช่น จำนวนและตำแหน่งการวาง layer, จำนวน nodes, activation function, regularization) _
