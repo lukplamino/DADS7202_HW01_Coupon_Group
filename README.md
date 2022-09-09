@@ -161,7 +161,9 @@ In each round, accuracy of validate and test sets are not significantly differen
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Train_Val.png" alt="drawing" style="width:500px;"/>
 
 ### Compare performance of Traditional Machine Learning (ML) and Multilayer Perceptron (MLP)
-- The performance of **`Traditional Machine Learning (ML)`** was  better than **`Multilayer Perceptron (MLP)`**.
+- All of the `Traditional Machine Learning (ML)`, `K Nearest Neighbor` is the only model that has lower accuracy than `Multilayer Perceptron (MLP)`.
+- **`Random Forest`**, **`Logistic Regression`**, **`Decision Tree`** and **`linear Support Vector Machine`** have better accuracy than `Multilayer Perceptron (MLP)`.
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Compare.png" alt="drawing" style="width:500px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
