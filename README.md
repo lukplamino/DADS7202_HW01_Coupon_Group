@@ -99,7 +99,7 @@ We experiment on each hyperparameter with the following default hyperparameter (
 - **`Epoch`**: [100, 200, 300, 400, 500, 600, 800, 1,000, 1,300, 1,500, 2,000]
 
 
-<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Train_models.png" alt="drawing" style="width:1200px;"/>
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Train_models.png" alt="drawing" style="width:1500px;"/>
 
 ### Re-train model from the best model (Row 8)
 - **`Random state`**: 88
@@ -114,6 +114,7 @@ We experiment on each hyperparameter with the following default hyperparameter (
 - **`Batch size`**: 128
 - **`Epoch`**: 200
 
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Model_Summary.png" alt="drawing" style="width:700px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
