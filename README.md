@@ -166,7 +166,7 @@ _อ้างอิงไลบรารีที่ใช้ (พร้อม�
 - **`RandomForestClassifier`**
 
 ### Version
-<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Version.png" alt="drawing" style="width:600px;"/>
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Version.png" alt="drawing" style="width:400px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
