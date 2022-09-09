@@ -43,11 +43,11 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
 #### Data preparation and pre-processing:
 To get data ready for model:
  - We managed the difference types of data by converting nominal data into object and ordinal data into integer with order from smallest (0) to greatest.
- - We dealt with missing value by 1) drop the column ('car') since only 1% data available and 2) drop NULL in the residual features because about 1% is missing and distribution does not change after drop out  
- - Lastly, ('Direction_same') removed as it shares the same information with ('direction_opp') column
+ - We dealt with missing value by 1) drop the column (`car`) since only 1% data available and 2) drop NULL in the residual features because about 1% is missing and distribution does not change after drop out  
+ - Lastly, (`Direction_same`) removed as it shares the same information with (`direction_opp`) column
 
 #### 🔨How to solve imbalance data:
-We found some features experience imbalance problem since it is dominated by only one class ('toCoupon_GEQ5min': All '1') or one of the class contributes to over 80% ('toCoupon_GEQ25min')
+We found some features experience imbalance problem since it is dominated by only one class (`toCoupon_GEQ5min`: All '1') or one of the class contributes to over 80% (`toCoupon_GEQ25min`)
 Consequently, we drop those columns out. And responsible result ('Y') seems be fine without imbalance (60/40)
 
 All in all, data set is ...
