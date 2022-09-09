@@ -82,7 +82,7 @@ There are 6 columns containing missing value
 - 99% of data in Car column is missing and the existing data in car column is not clean; consequence, we will drop this column off
 
 2. **Others Columns** i.e. Bar, CoffeeHouse, CarryAway, RestaurantLessThan20 and Restaurant20To50
-- There are missing data at only 1-2%, so we drop some rows with NULL data off
+- There are missing data at only 1-2%, so we drop some rows with NULL data off 
 
 
 ##### Data preparation:
