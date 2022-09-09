@@ -11,6 +11,7 @@
 - Highlight5
 
 ## Table of Contents
+[Code.ipynp](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/%5BMNLP_Team%5D_7202_HW1_Final_Version.ipynb)
  - [1. Introduction🎯](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#1-introduction)
  - [2. Data📑](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#2-data)
  - [3. Network architecture📦 and Training🔮](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#3-network-architecture-and-training)
