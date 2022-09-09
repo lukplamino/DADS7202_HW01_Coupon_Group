@@ -72,11 +72,18 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
  21. **`Direction_same`**: Whether the restaurant/bar is in the same direction as your current destination (1,0)
 
 
-#### 🔎Exploratory Data Analysis(EDA): 
+### 🔎Exploratory Data Analysis(EDA): 
+
 ##### Data preparation:
 ##### Data pre-processing:
 ##### Data post-processing:
 #### ✂️Data splitting (train/val/test):
+- `random_state` = 88, 
+- `test_size` = 0.25
+- **`Train Shape`**: (9059, 73)
+- **`Test Shape`**: (3020, 73)
+
+
 #### 🔨How to solve imbalance data:
 _หากชุดข้อมูลที่ใช้มีปัญหาบางประการ เช่น imbalance ในบางคลาส ให้ระบุแนวทางที่จะใช้แก้ปัญหาด้วย (โดยเฉพาะงาน classification)_
 
