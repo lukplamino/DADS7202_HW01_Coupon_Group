@@ -13,12 +13,12 @@
 ## Table of Contents
  - [1. Introduction🎯](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#1-introduction)
  - [2. Data📑](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#2-data)
- - [3. Network architecture📦](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#3-network-architecture)
+ - [3. Network architecture📦 and Training🔮](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#3-network-architecture)
  - [4. Training🔮](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#4-training)
- - [5. Results📈](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#5-results)
- - [6. Discussion💭](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#6-discussion)
- - [7. Conclusion📊](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#7-conclusion)
- - [8. References🌐](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#8-references)
+ - [4. Results📈](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#4-results)
+ - [5. Discussion💭](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#5-discussion)
+ - [6. Conclusion📊](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#6-conclusion)
+ - [7. References🌐](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#7-references)
  - [Citing](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#citing)
  - [👥 Members, Percent Contribution and Responsibility](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#-members-percent-contribution-and-responsibility)
  - [🖇️End Credit ](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#%EF%B8%8Fend-credit)
@@ -39,13 +39,6 @@ This data was collected via a survey on Amazon Mechanical Turk. The survey descr
 For more information about the dataset, please refer to the paper:
 Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Perry MacNeille. 'A bayesian framework for learning rule sets for interpretable classification.' The Journal of Machine Learning Research 18, no. 1 (2017): 2357-2393.
 
-#### 🔎Exploratory Data Analysis(EDA): 
-##### Data preparation:
-##### Data pre-processing:
-##### Data post-processing:
-
-#### 🔨How to solve imbalance data:
-_หากชุดข้อมูลที่ใช้มีปัญหาบางประการ เช่น imbalance ในบางคลาส ให้ระบุแนวทางที่จะใช้แก้ปัญหาด้วย (โดยเฉพาะงาน classification)_
 **Devide `21 Attributes` into 3 groups** 
 
 **Group I. Persona attributes**
@@ -79,25 +72,27 @@ _หากชุดข้อมูลที่ใช้มีปัญหาบ�
  20. **`toCoupon_GEQ15min`**: Driving distance to the restaurant/bar for using the coupon is greater than 15 minutes (1,0)
  21. **`Direction_same`**: Whether the restaurant/bar is in the same direction as your current destination (1,0)
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
+#### 🔎Exploratory Data Analysis(EDA): 
+##### Data preparation:
+##### Data pre-processing:
+##### Data post-processing:
 #### ✂️Data splitting (train/val/test):
+#### 🔨How to solve imbalance data:
+_หากชุดข้อมูลที่ใช้มีปัญหาบางประการ เช่น imbalance ในบางคลาส ให้ระบุแนวทางที่จะใช้แก้ปัญหาด้วย (โดยเฉพาะงาน classification)_
 
-## 3. Network architecture📦
-_รายละเอียดต่างๆของโมเดลที่เลือกใช้ เช่น จำนวนและตำแหน่งการวาง layer, จำนวน nodes, activation function, regularization) _
-_(โดยใส่ข้อมูลให้ละเอียดพอที่คนที่มาอ่านจะสามารถไปสร้าง network ตามเราได้)_
-
-[🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
-
-## 4. Training🔮
-_รายละเอียดของการ train และ validate ข้อมูล รวมถึงทรัพยากรที่ใช้ในการ train โมเดลหนึ่ง ๆ เช่น training strategy (เช่น single loss, compound loss, two-step training, end-to-end training), loss, optimizer (learning rate, momentum, etc), batch size, epoch, รุ่นและจำนวน CPU หรือ GPU หรือ TPU ที่ใช้, เวลาโดยประมาณที่ใช้ train โมเดลหนึ่งตัว ฯลฯ_
- - GPU:
-<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/GPU.png" alt="drawing" style="width:500px;"/>
- - Time to train:
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
-## 5. Results📈
+## 3. Network architecture📦 and Training🔮
+We experiment on each hyperparameter with the following default hyperparameter (change each hyperparameter and keep the default for others) and evaluate the result using model accuracy on test set
+**`Coupon`**
+
+
+
+[🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
+
+## 4. Results📈
  - การแสดงผลลัพธ์เทียบ Train vs Validation (เช่น Loss/Accuracy)
 ถ้าเป็นไปได้ควรแสดงไว้ในกราฟเดียวกันเพื่อให้สามารถเทียบ scale ค่าผลลัพธ์และดู underfit / overfit ได้ง่าย
  - ระบุให้ชัดเจนเสมอว่าสิ่งที่กล่าวถึงนั้นเป็นผลลัพธ์บน train set หรือ val set หรือ test set
@@ -113,21 +108,13 @@ loss สมการเดียวกัน เป็นต้น
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
-##  (Optional) Ablation study
-_**โมเดลเราคงไม่ใหญ่ขนาดนั้นมั้ง หัวข้อนี้ก็อาจจะตัดทิ้งนะ_
-_ในกรณีที่โมเดลมีขนาดใหญ่และมีโมเดลย่อยซ้อนอยู่ข้างในอีก
-หลายส่วนจนทำให้ยากต่อการสรุปว่าโมเดลส่วนย่อยใดมีนัยสำคัญมากน้อยแค่ไหนต่อผลที่ได้บ้าง 
-ในกรณีเหล่านี้นิยมทำ ablation study โดยทดลองลบโมเดลย่อยบางส่วนออก แล้ว train 
-โมเดลดังกล่าวใหม่เพื่อดูว่าการดึงออกนี้มีผลทำให้ประสิทธิภาพโมเดลดีขึ้นหรือแย่ลงอย่างไร_ 
 
-[🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
-
-## 6. Discussion💭
+## 5. Discussion💭
 _อภิปรายผลลัพธ์ที่ได้ว่ามีอะไรเป็นไปตามสมมติฐาน หรือมีอะไรผิดคาด ไม่เป็นไปตามสมมติฐานบ้าง, วิเคราะห์เพิ่มเติมว่าสิ่งที่ผิดคาดหรือผิดปกตินั้นน่าจะเกิดจากอะไร, ในกรณีที่ dataset มีปัญหา เช่น imalanced dataset ควรวิเคราะห์ด้วยว่าวิธีแก้ที่เราใช้สามารถแก้ปัญหาของ dataset ได้จริงหรือไม่_
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
-## 7. Conclusion📊
+## 6. Conclusion📊
 _การอภิปรายผลและการสรุปผล ต้องอ้างอิงกับผลการทดลองของเราที่ได้ออกมาเป็นหลัก
 มิใช่การนำข้อสรุปที่เป็น general conclusion จากหนังสือ แบบเรียน หรือจากแหล่งอื่น ๆ 
 ในอินเทอร์เน็ต มาเขียนซ้ำโดยไม่มีผลการทดลองใด ๆ ของเรามาช่วยสนับสนุนข้อสรุปดังกล่าว_
@@ -136,7 +123,7 @@ _วิเคราะห์ด้วยว่าวิธีแก้ที่�
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
-## 8. References🌐
+## 7. References🌐
 _อ้างอิงไลบรารีที่ใช้ (พร้อมเวอร์ชัน), อ้างอิงเทคนิคที่ยืมมาใช้จากเปเปอร์, อ้างอิงโค้ดหรือรูปภาพที่หยิบยืมมาใช้จาก github หรือจากที่อื่น ๆ_
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
