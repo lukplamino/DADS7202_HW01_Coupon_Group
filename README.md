@@ -48,7 +48,7 @@ To get data ready for model:
 
 #### 🔨How to solve imbalance data:
 We found some features experience imbalance problem since it is dominated by only one class ('toCoupon_GEQ5min': All '1') or one of the class contributes to over 80% ('toCoupon_GEQ25min')
-Consequently, we drop those columns out.
+Consequently, we drop those columns out. And responsible result ('Y') seems be fine without imbalance (60/40)
 
 All in all, data set is ...
 **Devide `21 Attributes` into 3 groups** 
@@ -89,10 +89,6 @@ All in all, data set is ...
 - `test_size` = 0.25
 - **`Train Shape`**: (9059, 73)
 - **`Test Shape`**: (3020, 73)
-
-
-#### 🔨How to solve imbalance data:
-_หากชุดข้อมูลที่ใช้มีปัญหาบางประการ เช่น imbalance ในบางคลาส ให้ระบุแนวทางที่จะใช้แก้ปัญหาด้วย (โดยเฉพาะงาน classification)_
 
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
