@@ -143,7 +143,7 @@ _อ้างอิงไลบรารีที่ใช้ (พร้อม�
 [🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#highlight)
 
 ## Citing: 
-<img src="https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group/blob/main/images/citing.png" alt="drawing" style="width:500px;"/>
+<img src="https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group/blob/main/images/citing.png" alt="drawing" style="width:600px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#highlight)
 
