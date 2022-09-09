@@ -169,8 +169,10 @@ _อ้างอิงไลบรารีที่ใช้ (พร้อม�
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Version.png" alt="drawing" style="width:400px;"/>
 
 ### References
-**ZHENGHAO XIAO. (2021, July 3)**
+- _ZHENGHAO XIAO. (2021, July 3)_
 [**Classification on Categorical Data Part 1**](https://www.kaggle.com/code/iyet1killer/classification-on-categorical-data-part-1-sklearn#Model-Training): Sklearn. Kaggle. 
+- _Natdanai, T., Wuthipoom, K., Nuj , L., Krisana, P., Songpol, B., Phawit, B_. (2022, February 6)
+[**Powered by The Deep Sleeping Crew**](https://github.com/robinoud/BADS7604_HW3_Deep-Learning?fbclid=IwAR2dfuoK7UWRjvps-sSetnGYrIjDQ6ZzNirOOvJcstEQ30aVtTYlMeuwv0c). Github.
 
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
