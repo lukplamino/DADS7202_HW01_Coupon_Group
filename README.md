@@ -166,20 +166,7 @@ _อ้างอิงไลบรารีที่ใช้ (พร้อม�
 - **`RandomForestClassifier`**
 
 ### Version
-Python 3.7.13 (default, Apr 24 2022, 01:04:09) 
-[GCC 7.5.0]
-
-NumPy 1.21.6
-Pandas 1.3.5
-Matplotlib 3.2.2
-Seaborn 0.11.2
-
-The scikit-learn version is 1.0.2
-TensorFlow version is 2.8.2
-
-tf.keras.backend.image_data_format() = channels_last
-TensorFlow detected 1 GPU(s):
-.... GPU No. 0: Name = /physical_device:GPU:0 , Type = GPU
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Version.png" alt="drawing" style="width:600px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
