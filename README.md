@@ -143,7 +143,7 @@ _อ้างอิงไลบรารีที่ใช้ (พร้อม�
 [🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#highlight)
 
 ## Citing: 
-_ ในกรณีที่มีคนอยาก cite (อ้างอิง) งานหรือ dataset ของเรา เราอยากให้เขา cite เราว่าอย่างไร ส่วนใหญ่นิยมเขียนในรูปแบบของ bibtex format ตามตัวอย่างในภาพ_
+<img src="https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group/blob/main/images/citing.png" alt="drawing" style="width:500px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#highlight)
 
