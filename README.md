@@ -149,7 +149,7 @@ For training traditional machine learning, we picked **`Random Forest`**, **`Log
 From the table, we can see that the **`Random Forest with Weighted Averages`** has the highest accuracy at **`75.6%`**.
 
 ### Multilayer Perceptron (MLP)
-
+From the experiment, We re-train model with Hyperparameter and find model with highest accuracy, less loss and not over-fit. 
 
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Train_Val.png" alt="drawing" style="width:500px;"/>
 
