@@ -38,6 +38,19 @@ This data was collected via a survey on Amazon Mechanical Turk. The survey descr
 For more information about the dataset, please refer to the paper:
 Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Perry MacNeille. 'A bayesian framework for learning rule sets for interpretable classification.' The Journal of Machine Learning Research 18, no. 1 (2017): 2357-2393.
 
+#### 🔎Exploratory Data Analysis(EDA): 
+
+#### Data preparation and pre-processing:
+To get data ready for model:
+ - We managed the difference types of data by converting nominal data into object and ordinal data into integer with order from smallest (0) to greatest.
+ - We dealt with missing value by 1) drop the column ('car') since only 1% data available and 2) drop NULL in the residual features because about 1% is missing and distribution does not change after drop out  
+ - Lastly, ('Direction_same') removed as it shares the same information with ('direction_opp') column
+
+#### 🔨How to solve imbalance data:
+We found some features experience imbalance problem since it is dominated by only one class ('toCoupon_GEQ5min': All '1') or one of the class contributes to over 80% ('toCoupon_GEQ25min')
+Consequently, we drop those columns out.
+
+All in all, data set is ...
 **Devide `21 Attributes` into 3 groups** 
 
 **Group I. Persona attributes**
@@ -71,23 +84,6 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
  20. **`toCoupon_GEQ15min`**: Driving distance to the restaurant/bar for using the coupon is greater than 15 minutes (1,0)
  21. **`Direction_same`**: Whether the restaurant/bar is in the same direction as your current destination (1,0)
 
-
-### 🔎Exploratory Data Analysis(EDA): 
-#### Check for missing values
-<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/missing_value.png" alt="drawing" style="width:350px;"/>
-
-There are 6 columns containing missing value
-
-1. **Car**
-- 99% of data in Car column is missing and the existing data in car column is not clean; consequence, we will drop this column off
-
-2. **Others Columns** i.e. Bar, CoffeeHouse, CarryAway, RestaurantLessThan20 and Restaurant20To50
-- There are missing data at only 1-2%, so we drop some rows with NULL data off 
-
-
-##### Data preparation:
-##### Data pre-processing:
-##### Data post-processing:
 #### ✂️Data splitting (train/val/test):
 - `random_state` = 88, 
 - `test_size` = 0.25
