@@ -101,7 +101,7 @@ We experiment on each hyperparameter with the following default hyperparameter (
 
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Train_models.png" alt="drawing" style="width:1200px;"/>
 
-###Re-train model from the best model (Row 8)
+### Re-train model from the best model (Row 8)
 - **`Random state`**: 88
 - **`Number of Hidden layer`**: 3
 - **`Number of Units in Hidden layer`**: [32, 64, 128]
