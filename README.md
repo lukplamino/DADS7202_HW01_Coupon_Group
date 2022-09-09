@@ -151,6 +151,7 @@ From the table, we can see that the **`Random Forest with Weighted Averages`** h
 ### Multilayer Perceptron (MLP)
 
 
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Train_Val.png" alt="drawing" style="width:500px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
