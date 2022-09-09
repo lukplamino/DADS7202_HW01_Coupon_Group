@@ -13,8 +13,7 @@
 ## Table of Contents
  - [1. Introduction🎯](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#1-introduction)
  - [2. Data📑](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#2-data)
- - [3. Network architecture📦 and Training🔮](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#3-network-architecture)
- - [4. Training🔮](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#4-training)
+ - [3. Network architecture📦 and Training🔮](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#3-network-architecture-and-training)
  - [4. Results📈](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#4-results)
  - [5. Discussion💭](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#5-discussion)
  - [6. Conclusion📊](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#6-conclusion)
