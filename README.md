@@ -92,6 +92,12 @@ We experiment on each hyperparameter with the following default hyperparameter (
 - **`Activation function in Hidden layer`**: [relu, tanh, sigmoid]
 - **`Dropout`**: [0.2, 0.25, 0.3]
 - **`Learning rate`**: [0.001, 0.0001, 0.00001, 0.00025]
+- **`Activation function in Output layer`**: [softmax, sigmoid]
+- **`Loss function`**: BinaryCrossentropy
+- **`Optimizer`**: [Adam, Nadam, Adamax]
+- **`Batch size`**: [64, 128, 256, 512]
+- **`Epoch`**: [100, 200, 300, 400, 500, 600, 800, 1,000, 1,300, 1,500, 2,000]
+
 
 
 
