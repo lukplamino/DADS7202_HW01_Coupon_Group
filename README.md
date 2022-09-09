@@ -1,7 +1,7 @@
-# DADS7202_Group Assignment 1 (Group 2 Tinkerbell)
+# DADS7202_Group Assignment 1 (Group 2 MNLP)
 > **`Which one is better for structured data, traditional ML or MLP?`**
 
-<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Screenshot%202022-08-29%20174351.png" alt="drawing" style="width:400px;"/>
+<img src="https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group/blob/main/images/Screenshot%202022-08-29%20174351.png" alt="drawing" style="width:400px;"/>
 
 ## ✨Highlight
 - Highlight1 เช่น ข้อคิดเห็น / การค้นพบ / insight
