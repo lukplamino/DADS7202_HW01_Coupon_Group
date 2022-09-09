@@ -85,7 +85,15 @@ _หากชุดข้อมูลที่ใช้มีปัญหาบ�
 
 ## 3. Network architecture📦 and Training🔮
 We experiment on each hyperparameter with the following default hyperparameter (change each hyperparameter and keep the default for others) and evaluate the result using model accuracy on test set
-**`Coupon`**
+
+- **`Random state`**: [88, 99, 100, 110]
+- **`Number of Hidden layer`**: min value = 3, max value = 5
+- **`Number of Units in Hidden layer`**: [32, 64, 128, 256, 512, 1024]
+- **`Activation function in Hidden layer`**: [relu, tanh, sigmoid]
+- **`Dropout`**: [0.2, 0.25, 0.3]
+- **`Learning rate`**: [0.001, 0.0001, 0.00001, 0.00025]
+
+
 
 
 
