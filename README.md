@@ -114,7 +114,7 @@ We experiment on each hyperparameter with the following default hyperparameter (
 - **`Batch size`**: 128
 - **`Epoch`**: 200
 
-<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Model_Summary.png" alt="drawing" style="width:700px;"/>
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Model_Summary.png" alt="drawing" style="width:500px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
@@ -167,6 +167,11 @@ _อ้างอิงไลบรารีที่ใช้ (พร้อม�
 
 ### Version
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Version.png" alt="drawing" style="width:400px;"/>
+
+### References
+**ZHENGHAO XIAO. (2021, July 3)**
+[**Classification on Categorical Data Part 1**](https://www.kaggle.com/code/iyet1killer/classification-on-categorical-data-part-1-sklearn#Model-Training): Sklearn. Kaggle. 
+
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
