@@ -143,7 +143,10 @@ loss สมการเดียวกัน เป็นต้น
  
 ### Traditional Machine Learning
 For training traditional machine learning, we picked **`Random Forest`**, **`Logistic Regression`**, **`Decision Tree`**, **`K Nearest Neighbor`**, and **`linear Support Vector Machine`** for trianing data to compare the results of them. We chose those models due to their simplicity and fast of training.
+
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Traditional_model.png" alt="drawing" style="width:500px;"/>
+
+From the table, we can see that the **`Random Forest with Weighted Averages `** has the highest accuracy.
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
