@@ -99,7 +99,7 @@ We experiment on each hyperparameter with the following default hyperparameter (
 - **`Epoch`**: [100, 200, 300, 400, 500, 600, 800, 1,000, 1,300, 1,500, 2,000]
 
 
-
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Train_models.png" alt="drawing" style="width:800px;"/>
 
 
 
