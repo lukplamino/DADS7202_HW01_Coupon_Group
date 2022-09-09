@@ -151,6 +151,9 @@ From the table, we can see that the **`Random Forest with Weighted Averages`** h
 ### Multilayer Perceptron (MLP)
 From the experiment, We re-train model with Hyperparameter and find model with highest accuracy, less loss and not over-fit. 
 
+
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/MLP_mean-SD.png" alt="drawing" style="width:500px;"/>
+
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Train_Val.png" alt="drawing" style="width:500px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
