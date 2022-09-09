@@ -74,7 +74,7 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
 
 ### 🔎Exploratory Data Analysis(EDA): 
 #### Check for missing values
-<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/missing_value.png" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/missing_value.png" alt="drawing" style="width:350px;"/>
 
 There are 6 columns containing missing value
 
