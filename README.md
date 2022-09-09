@@ -84,7 +84,7 @@ _หากชุดข้อมูลที่ใช้มีปัญหาบ�
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
 ## 3. Network architecture📦 and Training🔮
-We experiment on each hyperparameter with the following default hyperparameter (change each hyperparameter and keep the default for others) and evaluate the result using model accuracy on test set
+We experiment on each hyperparameter with the following default hyperparameter (change each hyperparameter and keep the default for others) and evaluate the result using **`model accuracy`**  on test set
 
 - **`Random state`**: [88, 99, 100, 110]
 - **`Number of Hidden layer`**: min value = 3, max value = 5
@@ -101,6 +101,18 @@ We experiment on each hyperparameter with the following default hyperparameter (
 
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Train_models.png" alt="drawing" style="width:1200px;"/>
 
+###Re-train model from the best model (Row 8)
+- **`Random state`**: 88
+- **`Number of Hidden layer`**: 3
+- **`Number of Units in Hidden layer`**: [32, 64, 128]
+- **`Activation function in Hidden layer`**: tanh
+- **`Dropout`**: 0.25
+- **`Learning rate`**: 0.0001
+- **`Activation function in Output layer`**: sigmoid
+- **`Loss function`**: BinaryCrossentropy
+- **`Optimizer`**: Adam
+- **`Batch size`**: 128
+- **`Epoch`**: 200
 
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
