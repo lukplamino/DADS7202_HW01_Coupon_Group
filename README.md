@@ -157,7 +157,7 @@ _อ้างอิงไลบรารีที่ใช้ (พร้อม�
 - **`SimpleImputer`**
 - **`StandardScaler`**
 - **`OneHotEncoder`**
-- **`[ColumnTransformer]`**(https://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer_mixed_types.html)
+- [**`ColumnTransformer`**](https://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer_mixed_types.html)
 - **`SelectKBest`**
 - **`precision_recall_fscore_support`**
 - **`LogisticRegression`**
