@@ -152,6 +152,19 @@ _วิเคราะห์ด้วยว่าวิธีแก้ที่�
 ## 7. References🌐
 _อ้างอิงไลบรารีที่ใช้ (พร้อมเวอร์ชัน), อ้างอิงเทคนิคที่ยืมมาใช้จากเปเปอร์, อ้างอิงโค้ดหรือรูปภาพที่หยิบยืมมาใช้จาก github หรือจากที่อื่น ๆ_
 
+### Library
+- **`Pipeline`**
+- **`SimpleImputer`**
+- **`StandardScaler`**
+- **`OneHotEncoder`**
+- **`[ColumnTransformer]`**(https://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer_mixed_types.html)
+- **`SelectKBest`**
+- **`precision_recall_fscore_support`**
+- **`LogisticRegression`**
+- **`SVC`**
+- **`KNeighborsClassifier`**
+- **`RandomForestClassifier`**
+
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
 ## Citing: 
