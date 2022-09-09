@@ -144,6 +144,7 @@ _อ้างอิงไลบรารีที่ใช้ (พร้อม�
 
 ## Citing: 
 [Bib.file](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/Citing_MNLP.bib)
+
 <img src="https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group/blob/main/images/citing.png" alt="drawing" style="width:600px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_Tinkerbell_Group#highlight)
