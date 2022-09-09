@@ -153,9 +153,10 @@ From the experiment, We re-train model with Hyperparameter and find model with h
 
 **Model performance**
 
+In each round, accuracy of validate and test sets are not significantly different. That proves the model is good fit.
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/MLP_mean-SD.png" alt="drawing" style="width:500px;"/>
 
-**Accuracy and Loss on Train vs Validated set**
+**Accuracy and Loss on Train vs Validate sets**
 
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Train_Val.png" alt="drawing" style="width:500px;"/>
 
