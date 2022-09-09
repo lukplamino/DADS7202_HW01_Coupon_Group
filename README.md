@@ -161,7 +161,7 @@ In each round, accuracy of validate and test sets are not significantly differen
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Train_Val.png" alt="drawing" style="width:500px;"/>
 
 ### Compare performance of **`Traditional Machine Learning (ML)`** and **`Multilayer Perceptron (MLP)`**
-
+- The performance of **`Traditional Machine Learning (ML)`** was  better than **`Multilayer Perceptron (MLP)`**.
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
