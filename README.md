@@ -74,13 +74,17 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
 
 ### 🔎Exploratory Data Analysis(EDA): 
 #### Check for missing values
-<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/missing_value.png" alt="drawing" style="width:400px;"/>
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/missing_value.png" alt="drawing" style="width:200px;"/>
+
 There are 6 columns containing missing value
-1. Car
+
+1. **Car**
 - 99% of data in Car column is missing and the existing data in car column is not clean; consequence, we will drop this column off
-2. Others Columns i.e. Bar, CoffeeHouse, CarryAway, RestaurantLessThan20 and Restaurant20To50
+
+2. **Others Columns** i.e. Bar, CoffeeHouse, CarryAway, RestaurantLessThan20 and Restaurant20To50
 - There are missing data at only 1-2%, so we drop some rows with NULL data off
-- 
+
+
 ##### Data preparation:
 ##### Data pre-processing:
 ##### Data post-processing:
