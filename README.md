@@ -4,7 +4,7 @@
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Screenshot%202022-08-29%20174351.png" alt="drawing" style="width:400px;"/>
 
 ## ✨Highlight
-- The best traditional machine learning is RandomForrestClassifier with 75.6% accuracy which beat MLP around +3% 
+- The best traditional machine learning is RandomForrestClassifier with 75.6% accuracy which beat MLP around +3.8% 
 - Comparing to some other traditional models i.e. Logistic Regression and KNN, MLP has higher accuracy rate but MLP runtime is over 14 times longer than the traditional one
 - For traditional machine learning, when select best feature with KBestSelection, number of features affect on accuracy significantanly ranging from 68% (k=20) to 75% (k=73) whereas slight impact on MLP accuracy rate (71% - 72%)
 
@@ -152,9 +152,9 @@ In each round, accuracy of validate and test sets are not significantly differen
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Train_Val.png" alt="drawing" style="width:500px;"/>
 
 ### Compare performance of Traditional Machine Learning (ML) and Multilayer Perceptron (MLP)
-- All of the `Traditional Machine Learning (ML)`, K Nearest Neighbor is the only model that has lower accuracy than `Multilayer Perceptron (MLP)`.
-- Random Forest, Logistic Regression, Decision Tree and linear Support Vector Machine have better accuracy than `Multilayer Perceptron (MLP)`.
-- Comparing `Multilayer Perceptron (MLP)` to Random Forest (the hightest accuracy), Random Forest have better accuracy than Multilayer Perceptron (MLP) around **`3.5%`**
+- All of the `Traditional Machine Learning (ML)`, K Nearest Neighbor and Logistic Regression have lower accuracy than `Multilayer Perceptron (MLP)`.
+- Random Forest, Decision Tree and linear Support Vector Machine have better accuracy than `Multilayer Perceptron (MLP)`.
+- Comparing `Multilayer Perceptron (MLP)` to Random Forest (the hightest accuracy), Random Forest have better accuracy than Multilayer Perceptron (MLP) around **`3.8%`**
 
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Compare.png" alt="drawing" style="width:500px;"/>
 
