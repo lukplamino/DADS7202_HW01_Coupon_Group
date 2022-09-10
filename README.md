@@ -160,9 +160,13 @@ In each round, accuracy of validate and test sets are not significantly differen
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Compare.png" alt="drawing" style="width:500px;"/>
 
 #### Compare Runtime of Traditional Machine Learning (ML) and Multilayer Perceptron (MLP)
-- Runtime of Traditional Machine Learning (ML) (Model no.1-4) is around 1-10 sec while runtime of Multilayer Perceptron (MLP) is longer than Traditional Machine Learning (ML) by 14 times.
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/runtime.png" alt="drawing" style="width:400px;"/>
 
+### How no. of features affect accuracy on test set in each model?
+- Change of no. of features in Multilayer Perceptron (MLP) and SVM model have low effect on accuracy.
+- Decreasing of no. of features in K Nearest Neighbor have positive effect on accuracy; however, they negatively affect accuracy of 
+Logistic Regression and Random Forest.
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/No-features.png" alt="drawing" style="width:400px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
