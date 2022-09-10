@@ -162,7 +162,7 @@ In each round, accuracy of validate and test sets are not significantly differen
 #### Compare Runtime of Traditional Machine Learning (ML) and Multilayer Perceptron (MLP)
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/runtime.png" alt="drawing" style="width:400px;"/>
 
-### How no. of features affect accuracy on test set in each model?
+### How number of features affect accuracy on test set in each model?
 - Change of no. of features in Multilayer Perceptron (MLP) and SVM models have low effect on accuracy.
 - Decreasing of no. of features in K Nearest Neighbor model have positive effect on accuracy; however, they negatively affect accuracy of Logistic Regression and Random Forest models.
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/No-features.png" alt="drawing" style="width:400px;"/>
