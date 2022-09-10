@@ -175,7 +175,7 @@ In each round, accuracy of validate and test sets are not significantly differen
  - Number of epoch แปลผลตรงต่อความแม่นยำ (accuracy) ของโมเดล 
  <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Epoch.png" alt="drawing" style="width:250px;"/>
  แต่การที่จำนวน epoch มากขึ้นอาจทำให้โมเดลมีความ overfit เพิ่มขึ้น ตามกราฟด้านล่างนี้
- <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Epoch100_500.png" alt="drawing" style="width:250px;"/> 
+ <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Epoch100_500.png" alt="drawing" style="width:500px;"/> 
  
  - การเพิ่ม number of layers เพียงอย่างเดียว อาจไม่ช่วยเพิ่มความแม่นยำใน MLP Model เสมอ จากการสุ่มสร้างโมเดลหลังจากปรับ number of layers = 3 เป็น number of layers = 4 (ภายใต้ parameter อื่นคงที่) ทำให้ accuracy ลดลง
  
