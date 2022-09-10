@@ -207,12 +207,12 @@ _วิเคราะห์ด้วยว่าวิธีแก้ที่�
 ## Citing: 
 [Bib.file](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/Citing_MNLP.bib)
 
-> @Misc{MNLP,
->    AUTHOR          = {Navapol San. , Pakawut Kam. , Supisara Poo. , Kantima Tec.},
->    TITLE           = {Model : MLP vs. Traditional ML},
->    YEAR            = {2022},
->    howpublished    = "\url{https://github.com/lukplamino/DADS7202_HW01_MNLP_Group.git}"
-> }
+@Misc{MNLP,
+   AUTHOR          = {Navapol San. , Pakawut Kam. , Supisara Poo. , Kantima Tec.},
+   TITLE           = {Model : MLP vs. Traditional ML},
+   YEAR            = {2022},
+   howpublished    = "\url{https://github.com/lukplamino/DADS7202_HW01_MNLP_Group.git}"
+}
 
 
 
