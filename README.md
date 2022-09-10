@@ -4,11 +4,10 @@
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Screenshot%202022-08-29%20174351.png" alt="drawing" style="width:400px;"/>
 
 ## ✨Highlight
-- Highlight1 เช่น ข้อคิดเห็น / การค้นพบ / insight
-- Highlight2
-- Highlight3
-- Highlight4
-- Highlight5
+- The best traditional machine learning is RandomForrestClassifier with 75.6% accuracy which beat MLP around +3% 
+- Comparing to some other traditional models i.e. Logistic Regression and KNN, MLP has higher accuracy rate but MLP runtime is over 14 times longer than the traditional one
+- For traditional machine learning, when select best feature with KBestSelection, number of features affect on accuracy significantanly ranging from 68% (k=20) to 75% (k=73) whereas slight impact on MLP accuracy rate (71% - 72%)
+
 
 ## Table of Contents
 [Code.ipynp](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/%5BMNLP_Team%5D_7202_HW1_Final_Version.ipynb)
@@ -160,12 +159,9 @@ In each round, accuracy of validate and test sets are not significantly differen
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Compare.png" alt="drawing" style="width:500px;"/>
 
 #### Compare Runtime of Traditional Machine Learning (ML) and Multilayer Perceptron (MLP)
+- Runtime of Traditional Machine Learning (ML) (Model no.1-4) is around 1-10 sec while runtime of Multilayer Perceptron (MLP) is longer than Traditional Machine Learning (ML) by 14 times.
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/runtime.png" alt="drawing" style="width:400px;"/>
 
-### How number of features affect accuracy on test set in each model?
-- Change of no. of features in Multilayer Perceptron (MLP) and SVM models have low effect on accuracy.
-- Decreasing of no. of features in K Nearest Neighbor model have positive effect on accuracy; however, they negatively affect accuracy of Logistic Regression and Random Forest models.
-<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/No-features.png" alt="drawing" style="width:400px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
