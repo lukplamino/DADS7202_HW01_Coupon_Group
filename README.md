@@ -159,7 +159,9 @@ In each round, accuracy of validate and test sets are not significantly differen
 
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Compare.png" alt="drawing" style="width:500px;"/>
 
+<img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/runtime.png" alt="drawing" style="width:500px;"/>
 
+### Compare Runtime of Traditional Machine Learning (ML) and Multilayer Perceptron (MLP)
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
 
 
