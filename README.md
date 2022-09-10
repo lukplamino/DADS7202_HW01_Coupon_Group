@@ -170,12 +170,12 @@ In each round, accuracy of validate and test sets are not significantly differen
 ## 5. Discussion💭
  - Learning Rate ค่อนข้างเป็นตัวแปรที่ทำให้ผลของโมเดลแตกต่างกัน 
  อย่างไรก็ตามการที่ใช้ learning rate ต่ำลงไปเรื่อยๆ ก็อาจทำให้ accuracy ลดลงด้วยเช่นกัน
- 
+  <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/lr.png" alt="drawing" style="width:250px;"/>
  - Number of epoch แปลผลตรงต่อความแม่นยำ (accuracy) ของโมเดล 
  
  แต่การที่จำนวน epoch มากขึ้นอาจทำให้โมเดลมีความ overfit เพิ่มขึ้น ตามกราฟด้านล่างนี้
  
- <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Epoch.png" alt="drawing" style="width:350px;"/>
+ <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Epoch.png" alt="drawing" style="width:250px;"/>
  
  - การเพิ่ม number of layers เพียงอย่างเดียว อาจไม่ช่วยเพิ่มความแม่นยำใน MLP Model เสมอ จากการสุ่มสร้างโมเดลหลังจากปรับ number of layers = 3 เป็น number of layers = 4 (ภายใต้ parameter อื่นคงที่) ทำให้ accuracy ลดลง
  
