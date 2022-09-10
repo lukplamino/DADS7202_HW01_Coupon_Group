@@ -163,9 +163,8 @@ In each round, accuracy of validate and test sets are not significantly differen
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/runtime.png" alt="drawing" style="width:400px;"/>
 
 ### How no. of features affect accuracy on test set in each model?
-- Change of no. of features in Multilayer Perceptron (MLP) and SVM model have low effect on accuracy.
-- Decreasing of no. of features in K Nearest Neighbor have positive effect on accuracy; however, they negatively affect accuracy of 
-Logistic Regression and Random Forest.
+- Change of no. of features in Multilayer Perceptron (MLP) and SVM models have low effect on accuracy.
+- Decreasing of no. of features in K Nearest Neighbor model have positive effect on accuracy; however, they negatively affect accuracy of Logistic Regression and Random Forest models.
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/No-features.png" alt="drawing" style="width:400px;"/>
 
 [🔝](https://github.com/lukplamino/DADS7202_HW01_MNLP_Group#highlight)
