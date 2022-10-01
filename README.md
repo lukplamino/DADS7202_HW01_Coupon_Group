@@ -197,9 +197,9 @@ In each round, accuracy of validate and test sets are not significantly differen
 - อย่างไรก็ตาม ก็ยังมีบาง Model ที่ให้ค่า accuracy ที่ต่ำกว่า MLP เช่น Logistic Regression (68%) และ K Nearest Neighbor (67.8%)
 - ดังนั้น จึงสรุปได้ว่า สำหรับข้อมูลชุดนี้ ไม่ว่าจะเป็น Traditional Machine Learning (ML) หรือ Multilayer Perceptron (MLP) ก็ให้ผล accuracy ที่ไม่ต่างกันมากนัก
 
-- ในเรื่องของเวลาที่ใช่ในการ train model ถ้าเทียบเวลาต่อรอบ (iteration or Epoch) พบว่า MLP ใช้เวลา 0.7 วินาที ต่อ 1 Epoch ขณะที่ Logistic Regression กับ K Nearest Neighbor ใช้เวลาเพียงเสี้ยงวิ ต่อ 1 รอบ (0.0002 - 0.006 วินาที) ซึ่งถือว่า MLP ใช้เวลาและทรัพยากรค่อนข้างเยอะกว่าหลายเท่า 
+- ในเรื่องของเวลาที่ใช่ในการ train model ถ้าเทียบเวลาต่อรอบ (iteration or Epoch) พบว่า MLP ใช้เวลา 0.7 วินาที ต่อ 1 Epoch ขณะที่ Logistic Regression กับ K Nearest Neighbor ใช้เวลาเพียงเสี้ยววิ ต่อ 1 รอบ (0.0002 - 0.006 วินาที) ซึ่งถือว่า MLP ใช้เวลาและทรัพยากรค่อนข้างเยอะกว่าหลายเท่า 
 - แต่ถ้าเราเทียบเวลาของ MLP กับ Random Forest และ SVM ซึ่งจะใช้เวลาต่อรอบค่อนข้างนานกว่า MLP 
-- อย่างไรก็ตาม ถ้าเรารวมเวลาที่ใช่ในการ tune parameter ด้วย ก็จะพบว่า MLP ใช้เวลานานกว่า ML หลายเท่า แต่ให้ค่า accuracy ที่ไม่ต่างกันมากนัก เพราะ MLP มี parameter ที่มากกว่า และมีความเป็น Black-box ที่เราไม่สามารถอธิบายวิธีการของโมเดลได้ ทำให้ต้องใช้เวลานานในการทดลองใช้ parameter หลายๆแบบ
+- อย่างไรก็ตาม ถ้าเรารวมเวลาที่ใช้ในการ tune parameter ด้วย ก็จะพบว่า MLP ใช้เวลานานกว่า ML หลายเท่า แต่ให้ค่า accuracy ที่ไม่ต่างกันมากนัก เพราะ MLP มี parameter ที่มากกว่า และมีความเป็น Black-box ที่เราไม่สามารถอธิบายวิธีการของโมเดลได้ ทำให้ต้องใช้เวลานานในการทดลองใช้ parameter หลายๆแบบ
 
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/conclude.png" alt="drawing" style="width:500px;"/>
 
