@@ -159,7 +159,7 @@ In each round, accuracy of validate and test sets are not significantly differen
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/Compare.png" alt="drawing" style="width:500px;"/>
 
 #### Compare Runtime of Traditional Machine Learning (ML) and Multilayer Perceptron (MLP)
-- The whole runtime of Traditional Machine Learning (ML) (Model no.1-4) is around 1-10 sec while the whole runtime of Multilayer Perceptron (MLP) is longer than Traditional Machine Learning (ML) by 14 times.
+- The whole runtime of Traditional Machine Learning (ML) (Model no.1,2,4,5) is around 1-10 sec while the whole runtime of Multilayer Perceptron (MLP) is longer than Traditional Machine Learning (ML) by 14 times.
 <img src="https://github.com/lukplamino/DADS7202_HW01_MNLP_Group/blob/main/images/runtime.png" alt="drawing" style="width:400px;"/>
 
 
